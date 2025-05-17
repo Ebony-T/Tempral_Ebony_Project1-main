@@ -1,0 +1,48 @@
+.hidden {
+    display: none;
+}
+
+.nunito-sans {
+  font-family: "Nunito Sans", sans-serif;
+  /* font-optical-sizing: auto; */
+  /* font-weight: <weight>; */
+  font-style: normal;
+  /* font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500; */
+}
+
+body {
+    font-family: 'Nunito Sans';
+    text-align: left;
+    margin: 0 40px 0 40px;
+    /* font-optical-sizing: auto; */
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings:"wdth" 100; */
+    font-size: 16px;
+    color: #2b2a2a;
+}
+
+.racing-sans-one-regular {
+  font-family: "Racing Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Racing Sans One';
+    font-size: 50px;
+    line-height: 45px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 0 rgb(243, 119, 18);
+    font-weight: 300;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
